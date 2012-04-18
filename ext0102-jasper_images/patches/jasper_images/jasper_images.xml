@@ -1,0 +1,4 @@
+<flpatch:modifications xmlns:flpatch="http://www.abanqg2.com/es/directori/abanq-ensambla/?flpatch" name="jasper_images">
+  <flpatch:addFile path="facturacion/informes/forms/" name="jasperImages_EJEMPLO.ui"/>
+  <flpatch:patchScript path="facturacion/informes/scripts/" name="flfactinfo.qs"/>
+</flpatch:modifications>
